@@ -1,2 +1,2 @@
-implementation of BINARY SEARCH TREE
-# trees
+Implementation of BINARY SEARCH TREE
+
